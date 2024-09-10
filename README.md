@@ -1,6 +1,6 @@
 ## Hi there, I'm Valerie 👋
 
-Computer Science & Engineering student @ UC Davis.
+Computer Science & Engineering student @ UC Davis
 
 ```JS
 const valerie = {
