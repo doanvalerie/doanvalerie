@@ -1,7 +1,7 @@
 ## Hi there, I'm Valerie 👋
 
 ```C++
-class SoftwareEngineer {
+class Valerie {
   public:
     std::string incoming_role = "SWE Intern @ GitHub";
     std::string current_role = "Computer Science & Engineering Student @ UC Davis";
