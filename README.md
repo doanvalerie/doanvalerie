@@ -1,31 +1,23 @@
 ## Hi there, I'm Valerie 👋
 
-Computer Science & Engineering student @ UC Davis
+```C++
+class SoftwareEngineer {
+  public:
+    std::string incoming_role = "SWE Intern @ GitHub";
+    std::string current_role = "Computer Science & Engineering Student @ UC Davis";
+    std::vector<std::string> previous_roles = {
+      "Associate Software Engineer Intern @ ServiceNow",
+      "Computer Science Intern @ Full Speed Automation"
+    };
 
-```JS
-const valerie = {
-  code: ["C", "C++", "Javascript", "Typescript", "Python", "HTML", "CSS"],
-  plc: ["Beckhoff Structured Text", "Siemens Control Language"],
-  technologies: {
-    web: {
-      frontEnd: {
-        js: ["Next.js", "React.js"],
-        css: ["Sass", "Tailwind CSS"]
-      },
-      backEnd: {
-        js: ["Express.js", "Node.js"],
-        tools: ["Prisma", "GraphQL", "Mongoose"]
-      }
-    },
-    databases: ["PostgreSQL", "MongoDB", "Firebase"],
-    platforms: ["DBeaver", "Postman", "Figma"],
-    misc: ["Linux", "Bash Scripting", "API Design", "UI/UX"],
-    workflow: {
-      projectManagement: ["Jira", "Confluence", "Agile Methodology"]
-    },
-    experience: ["ServiceNow", "Full Speed Automation"]
-  },
-  funFact: "I aspire to be a jazz guitarist and pianist 🎵"
+    std::vector<std::string> languages = {"C", "C++", "JavaScript", "TypeScript", "Python", "HTML", "CSS"};
+    std::vector<std::string> plc = {"Beckhoff Structured Text", "Siemens Control Language"};
+    std::vector<std::string> hobbies = {
+      "Sipping anything sweet, including lattes, milk tea, and smoothies :)",
+      "Exploring all genres of music",
+      "Creating a knowledge base on Obsidian",
+      "Solving logic, math, and programming puzzles (^-^)"
+    };
 };
 ```
 
